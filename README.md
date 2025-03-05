@@ -32,10 +32,5 @@ Certifique-se de ter o Python instalado (versão 3.x).
 ├── README.md           # Documentação do projeto
 ```
 
-## 🔧 Melhorias Futuras
-- Adicionar operações científicas
-- Melhorar o design da interface gráfica
-- Implementar suporte para teclas de atalho
-
 ## 📝 Licença
 Este projeto é de livre uso para estudos e pode ser modificado conforme necessário.
