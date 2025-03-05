@@ -1,6 +1,6 @@
-# Calculadora com Tkinter
+# Calculadora
 
-Este projeto é uma calculadora gráfica desenvolvida em Python utilizando a biblioteca Tkinter.
+Este projeto é uma calculadora gráfica desenvolvida em Python.
 
 ## 📌 Funcionalidades
 - Interface gráfica amigável
